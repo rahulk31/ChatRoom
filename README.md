@@ -4,6 +4,6 @@
 
 ## Some screenshots:
 
-<img src="https://github.com/settingsingh/ChatRoom/blob/master/ss/user1.png" width="100">
+<img src="https://github.com/settingsingh/ChatRoom/blob/master/ss/user1.png" width="250">
 
-<img src="https://github.com/settingsingh/ChatRoom/blob/master/ss/user2.png" width="100">
+<img src="https://github.com/settingsingh/ChatRoom/blob/master/ss/user2.png" width="250">
